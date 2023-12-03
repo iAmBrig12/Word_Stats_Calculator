@@ -6,6 +6,8 @@
 #           Reads in a text file, removes html tags and formatting codes,
 #           normalizes text to lowercase, tokenizes the text, calculates 
 #           word counts and frequencies, and displays calculations.
+#
+#           Adapted from Human Language Technologies Homework Assignment
 # DEPENDENCIES: 
 #           Created with Python 3.11.5 
 #           re, collections
